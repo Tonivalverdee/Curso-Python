@@ -1,4 +1,4 @@
-### Lists ###
+### Listas ###
 
 # Definición de listas vacías
 my_list = list() # Crear una lista vacía usando el constructor list()
